@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: "coollabsio/next-image-transformation"
+  IMAGE_NAME: "lgreitis/next-image-transformation"
 
 jobs:
   amd64:
